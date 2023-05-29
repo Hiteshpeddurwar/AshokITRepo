@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author peddu
+ *
+ */
+module FunctionalInterface {
+}
